@@ -1,10 +1,10 @@
 # Uservoice::Turbolinks
 
-**use with Rails and Assest Pipeline**
+**use with Rails and Asset Pipeline**
 
 This gem adds support for [Uservoice](http://www.uservoice.com/) to use with Rails Turbolinks.
 
-When you use the turbolinks and move between pages the Uservoice tab will disappear this gem will bring it back. 
+When you use the turbolinks and move between pages the Uservoice tab will disappear this gem will bring it back.
 
 ## Installation
 
@@ -25,7 +25,7 @@ Or install it yourself as:
 Add
 
 	//= require uservoice-turbolinks
-    
+
 to your Javascript manifest file (usually application.js).
 
 ## Contributing
