@@ -28,6 +28,10 @@ Add
 
 to your Javascript manifest file (usually application.js).
 
+## Changelog
+
+<iframe src="http://revision.io/embeds/uservoice-turbolinks" style="border: 0; width: 100%; height: 600px;"></iframe>
+
 ## Contributing
 
 1. Fork it
